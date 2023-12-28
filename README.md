@@ -13,7 +13,7 @@
 
 ### Links
 
-- [Live 🔗](https://asarahmed.github.io/Basketball-Scoreboard/)
+- [Live 🔗](https://asarahmed.github.io/Blackjack-game/)
 
 Quick start:
 
